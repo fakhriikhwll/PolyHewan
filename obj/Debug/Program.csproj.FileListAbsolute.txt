@@ -1,0 +1,7 @@
+D:\18.11.2265\Polymorphism\Program\Program\bin\Debug\Program.exe.config
+D:\18.11.2265\Polymorphism\Program\Program\bin\Debug\Program.exe
+D:\18.11.2265\Polymorphism\Program\Program\bin\Debug\Program.pdb
+D:\18.11.2265\Polymorphism\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+D:\18.11.2265\Polymorphism\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\18.11.2265\Polymorphism\Program\Program\obj\Debug\Program.exe
+D:\18.11.2265\Polymorphism\Program\Program\obj\Debug\Program.pdb
